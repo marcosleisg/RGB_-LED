@@ -11,4 +11,4 @@ Requisitos  : WOKWI, Arduino, BreadBoard
 
 Tiempo      : 8 horas
 
-Enlace de interes -> [Projecto](**https://wokwi.com/projects/391153085111796737**)
+Enlace de interes -> [Projecto] (**https://wokwi.com/projects/391153085111796737**)
